@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
   <title>Student Feedback Form</title>
